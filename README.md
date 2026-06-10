@@ -237,8 +237,8 @@ FLAG: HTB{...}
 
 ## 🏆 FLAG SPOTTED! 🏆
 
-![Flag Screenshot](<img width="912" height="878" alt="flag uplink ctf htb" src="https://github.com/user-attachments/assets/7f14b174-1042-4b15-804a-01b49a62dc10" />
-)
+<img width="912" height="878" alt="flag uplink ctf htb" src="https://github.com/user-attachments/assets/216efe5f-5db3-468c-92e7-6a202ac481af" />
+
 *The moment when the flag was captured*
 
 ```
