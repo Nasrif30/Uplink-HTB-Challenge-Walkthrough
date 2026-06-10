@@ -241,15 +241,6 @@ FLAG: HTB{...}
 
 *The moment when the flag was captured*
 
-```
-╔══════════════════════════════════════════╗
-║                                          ║
-║   HTB{your_flag_here}                    ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-
-> **Replace `HTB{your_flag_here}` with your actual flag from the screenshot above!**
 
 ---
 
